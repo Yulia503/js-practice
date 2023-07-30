@@ -120,17 +120,17 @@
 
 //*------------числа,що вводитькористувач додаються в prompt
 
-let total = 0;
-let  userNumber = prompt("Введіть число"):
-    let check = false;
+// let total = 0;
+// let  userNumber = prompt("Введіть число"):
+//     let check = false;
 
-do {
-    if (number) {
-        check = true;
-        total += Number.(userNumber);
-    } else {
-        check = false;
-        console.log(`Загальна сума чисел дорівнює ${total}`);
-    }
+// do {
+//     if (number) {
+//         check = true;
+//         total += Number.(userNumber);
+//     } else {
+//         check = false;
+//         console.log(`Загальна сума чисел дорівнює ${total}`);
+//     }
 
-} while (check);
+// } while (check);
